@@ -40,8 +40,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mohd-ayaan/mohd-ayaan/output/snake.svg" alt="Snake animation" />
 
 ###
